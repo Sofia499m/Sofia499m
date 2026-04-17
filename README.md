@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm sofia, a software developer student that it is open to gain knowledge
+I'm Sofia, a software development student passionate about learning and building real-world projects.
 ## 🔭 I’m currently working on ...
 - A Study Tracker to stay organized and manage academic deadlines
 - Kaptivate – a web application that allows businesses to showcase information and engage with their clients 
