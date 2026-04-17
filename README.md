@@ -14,7 +14,7 @@ I'm Sofia, a software development student passionate about learning and building
 - Improve problem-solving skills  
 - Contribute to open-source projects
 ## How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sofia-montealegre-366905403/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:G00469283@atu.ie) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sofia-montealegre-366905403/])) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:G00469283@atu.ie) 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
